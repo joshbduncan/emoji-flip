@@ -196,6 +196,7 @@
 
     .matches {
         display: flex;
+        justify-content: center;
         gap: 1rem;
         margin-block: 2rem;
         font-size: 3rem;
